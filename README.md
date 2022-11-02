@@ -4,7 +4,7 @@
 
 ### 🗒️ My recent notebooks:
 
-- [Market noise study: data analysis](https://github.com/royceanton/Market-noise-study/blob/main/measuring-market-noise-price-density.ipynb)
+- [Market Noise: Price Density & Efficiency Ratio - Study & Data Analysis](https://github.com/royceanton/Market-noise-study/blob/main/measuring-market-noise-price-density.ipynb)
  
 
 <!--
