@@ -5,6 +5,7 @@
 ### 🗒️ My recent notebooks:
 
 - [Market Noise: Price Density & Efficiency Ratio - Study & Data Analysis](https://github.com/royceanton/Market-noise-study/blob/main/measuring-market-noise-price-density.ipynb)
+- [Introductory Mathematics: Notes & Practice with solutions](https://github.com/royceanton/Mathematics)
  
 
 <!--
