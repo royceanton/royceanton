@@ -1,7 +1,5 @@
 ### Hi there 👋 Welcome to my repo!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royceanton&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
-
 ### 🗒️ My recent notebooks:
 
 - [K-Means Clustering](https://github.com/royceanton/ML-Data-Analysis/blob/main/k_means_notes.ipynb)
