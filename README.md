@@ -1,5 +1,3 @@
-### Hi there 👋 Welcome to my repo!
-
 ### 🗒️ My recent notebooks:
 
 - [K-Means Clustering](https://github.com/royceanton/ML-Data-Analysis/blob/main/k_means_notes.ipynb)
