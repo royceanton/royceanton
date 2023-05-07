@@ -1,6 +1,6 @@
 ### 🗒️ My recent notebooks:
 
-- [Anomaly detection Tests and Algorithm experiments in Time series](https://github.com/royceanton/ML-Data-Analysis/blob/main/anomaly_detection.ipynb)
+- [Anomaly detection Tests and Algorithm experiments in time series](https://github.com/royceanton/ML-Data-Analysis/blob/main/anomaly_detection.ipynb)
 - [K-Means Clustering](https://github.com/royceanton/ML-Data-Analysis/blob/main/k_means_notes.ipynb)
 - [Kalman Filter & Ornstein–Uhlenbeck Process for Pairs trading study](https://github.com/royceanton/ML-Data-Analysis/blob/main/kalman_ou_analysis_1.ipynb)
 - [Market Noise: Price Density & Efficiency Ratio - Study & Data Analysis](https://github.com/royceanton/Market-noise-study/blob/main/measuring-market-noise-price-density.ipynb)
