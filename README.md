@@ -2,6 +2,7 @@
 
 - [Anomaly Detection Tests and Algorithm experiments in Market Timeseries data](https://github.com/royceanton/ML-Data-Analysis/blob/main/anomaly_detection.ipynb)
 - [K-Means Clustering](https://github.com/royceanton/ML-Data-Analysis/blob/main/k_means_notes.ipynb)
+- [Decision Making: Analytic Hierarchy Process by T.L Satty, Example study](https://github.com/royceanton/ML-Data-Analysis/blob/main/ahp_process.ipynb)
 - [Kalman Filter & Ornstein–Uhlenbeck Process for Pairs trading study](https://github.com/royceanton/ML-Data-Analysis/blob/main/kalman_ou_analysis_1.ipynb)
 - [Market Noise: Price Density & Efficiency Ratio - Study & Data Analysis](https://github.com/royceanton/Market-noise-study/blob/main/measuring-market-noise-price-density.ipynb)
 - [Introductory to Applied Mathematics: Self Study Notes & Practice with solutions](https://github.com/royceanton/Mathematics)
